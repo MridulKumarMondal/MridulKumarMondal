@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **MERN STACK DEVELOPMENT**
 
-- 💬 Ask me about **C , HTML , CSS**
+- 💬 Ask me about **C , HTML , CSS , Tailwind**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
